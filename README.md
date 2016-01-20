@@ -1,9 +1,9 @@
-# DevOps.Hackthon
-Microsoft DevOps Hackthon
+# DevOps.Hackathon
+Microsoft DevOps Hackathon
 
 #About the application
-Since this hackathon is focusing on DevOps, we're usning the out-of-the-box ASP.NET MVC template as demo app. 
-The default app will be modified to include custom configurations and DB changes usning Entity Framework 6 (incl migrations). 
+Since this hackathon is focusing on DevOps, we're using the out-of-the-box ASP.NET MVC template as demo app. 
+The default app will be modified to include custom configurations and DB changes Using Entity Framework 6 (incl migrations). 
 
 #Goal
 - Use GitHub as source repository
